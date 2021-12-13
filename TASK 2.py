@@ -6,7 +6,6 @@ import json
 import matplotlib as mpl
 import matplotlib.pyplot as plt
 import seaborn as sns
-from collections import defaultdict
 
 #API request
 JSONContent = requests.get("https://api.magicthegathering.io/v1/cards?page= 0").json()
