@@ -1,0 +1,122 @@
+---
+title: "Task2. Data Analysis"
+author: "Simone Lu, Marco Pisano, Lorenzo Antolini"
+date: "13/12/2021"
+output: html_document
+---
+#Data visualizations with Ggplot2, we runned the libraries necessary to retrieve the data from a URL and for plotting the graphs.
+```{r}
+
+library (readr)
+library(ggplot2)
+```
+
+#we imported from our colleagues repository of github.
+```{r}
+
+urlfile="https://raw.githubusercontent.com/Enricograndi/MeM_project_work/main/Data/binance_data.csv"
+mydata <- read_csv(url(urlfile))
+View(mydata)
+```
+
+#1)plot the distrubution of the number of trades, it is not normal distributed.
+```{r}
+
+
+a <- ggplot(mydata, aes(x = `Number of trades`, y= ..density.., color = "red")) + 
+  geom_histogram(bins = 40, color = "black", 
+                 fill = "white")
+a <-  a + geom_density(kernel= "gaussian", size= 1.5)
+a
+```
+
+
+#2)second plot is the boxplot of all the variables in the dataset by excluding the non numerical variables.before doing it that, we normalized the data and we boxplot all the variables.
+
+```{r}
+
+min_max_norm <- function(x) {
+  (x - min(x)) / (max(x) - min(x))
+}
+
+data_norm <- as.data.frame(lapply(mydata[c(3,4,5,6,7,9,10,11,12,13)], min_max_norm))
+
+#with ggplot
+ggplot(stack(data_norm), aes(x=ind, y =values))+
+  geom_boxplot()
+
+```
+
+#3)time series graph in order to see the price changes from 2018 to 2021
+```{r}
+ggplot(data = mydata, aes(mydata$`Open time`, y = Open)) + 
+  geom_line() + 
+  labs(x = "date", y = "open price")
+```
+
+#4)time series with number of transactions.
+
+```{r}
+ggplot(data = mydata, aes(mydata$`Open time`, mydata$`Number of trades`)) + 
+  geom_point() + 
+  labs(x = "date", y = "n of transactions")
+
+```
+
+#####################################
+#Data manipulation
+```{r}
+library(tidyverse)
+library(magrittr)
+```
+
+#i inspect the data to see the number of observations and the variable's types
+```{r}
+str(mydata)
+```
+
+#firstly, i removed all the not available values 
+```{r}
+na.omit(mydata)
+```
+
+#with command "select",we take some specific colums
+```{r}
+mydata%>%
+select(`Open time`,Open,Close,Volume)
+```
+
+# if we want to see all the observations that has volume higher than the mean, we can 
+#use the command "filter"
+```{r}
+vol_mean <- mean(mydata$Volume)
+vol_above_the_mean <- filter(mydata, Volume > vol_mean)
+vol_above_the_mean$Volume
+```
+
+#another, if we want work only on the stock price in 2018
+```{r}
+mydata%>%
+filter(mydata$`Open time`>= as.Date("2018-01-01") & mydata$`Open time` <= ("2018-12-31"))
+```
+
+#select only numeric columns
+```{r}
+mydata2 = select_if(mydata, is.numeric)
+```
+
+#we calculate the mean of the close price
+```{r}
+mydata%>%
+summarise(mean = mean(Close), n = n())
+
+```
+
+
+
+
+
+
+
+
+
