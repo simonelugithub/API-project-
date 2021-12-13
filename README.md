@@ -8,14 +8,14 @@
 # TASK 2 Data Manipulation and Data Visualizations
 
 **Python**
-#DATA MANIPOLATION
+#DATA MANIPULATION
  We observed that the dataset had some ambiguities:
- 1) some columns had list of values, exemple ---> [{es1, es2, es.3}] as variable. We transorm them into a more managble format.
+ 1) some columns had list of values, exemple ---> [{es1, es2, es.3}] as variable. We transorm them into a more "usable" format.
  2) we dropped all the columns that we consider not necessary for our analysis.
  3) We manipolate the column type value in order to extract only the "creature" from the cards dataframe
 
 #DATA VISUALIZATION
- We use crature dataframe to plot and count different variables distribution such as the rarity, mana colour, type and subtypes of the cards.
+ We use creature dataframe to plot and count different variables distribution such as the rarity, mana colour, type and subtypes of the cards.
  Than we saved the figure.
  
 **R**
