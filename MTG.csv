@@ -1,0 +1,377 @@
+,name,cmc,rarity,power,toughness,main_color,Type,Subtype
+0,Ancestor's Chosen,7.0,Uncommon,4,4,White,Creature , Human Cleric
+1,Angel of Mercy,5.0,Uncommon,3,3,White,Creature , Angel
+2,Aven Cloudchaser,4.0,Common,2,2,White,Creature , Bird Soldier
+3,Ballista Squad,4.0,Uncommon,2,2,White,Creature , Human Rebel
+6,Benalish Knight,3.0,Common,2,2,White,Creature , Human Knight
+7,Benalish Knight,3.0,Common,2,2,White,Creature , Human Knight
+8,"Cho-Manno, Revolutionary",4.0,Rare,2,2,White,Legendary Creature , Human Rebel
+11,Drudge Skeletons,2.0,Uncommon,1,1,Black,Creature , Skeleton
+14,Field Marshal,3.0,Rare,2,2,White,Creature , Human Soldier
+15,Hypnotic Specter,3.0,Rare,2,2,Black,Creature , Specter
+16,Ghost Warden,2.0,Common,1,1,White,Creature , Spirit
+21,Honor Guard,1.0,Common,1,1,White,Creature , Human Soldier
+22,Icatian Priest,1.0,Uncommon,1,1,White,Creature , Human Cleric
+24,Reya Dawnbringer,9.0,Rare,4,6,White,Legendary Creature , Angel
+26,Samite Healer,2.0,Common,1,1,White,Creature , Human Cleric
+28,Academy Researchers,3.0,Uncommon,2,2,Blue,Creature , Human Wizard
+29,Air Elemental,5.0,Uncommon,4,4,Blue,Creature , Elemental
+30,Ambassador Laquatus,3.0,Rare,1,3,Blue,Legendary Creature , Merfolk Wizard
+31,Aven Fisher,4.0,Common,2,2,Blue,Creature , Bird Soldier
+32,Aven Windreader,5.0,Common,3,3,Blue,Creature , Bird Soldier Wizard
+35,Cephalid Constable,3.0,Rare,1,1,Blue,Creature , Cephalid Wizard
+36,Clone,4.0,Rare,0,0,Blue,Creature , Shapeshifter
+37,Cloud Elemental,3.0,Common,2,3,Blue,Creature , Elemental
+38,Cloud Sprite,1.0,Common,1,1,Blue,Creature , Faerie
+40,Crafty Pathmage,3.0,Common,1,1,Blue,Creature , Human Wizard
+43,Denizen of the Deep,8.0,Rare,11,11,Blue,Creature , Serpent
+45,Dreamborn Muse,4.0,Rare,2,2,Blue,Creature , Spirit
+49,Ascendant Evincar,6.0,Rare,3,3,Black,Legendary Creature , Phyrexian Vampire Noble
+50,Ascendant Evincar,6.0,Rare,3,3,Black,Legendary Creature , Phyrexian Vampire Noble
+53,Bog Wraith,4.0,Uncommon,3,3,Black,Creature , Wraith
+54,Bog Wraith,4.0,Uncommon,3,3,Black,Creature , Wraith
+60,Rootwater Commando,3.0,Common,2,2,Blue,Creature , Merfolk
+61,Rootwater Commando,3.0,Common,2,2,Blue,Creature , Merfolk
+63,Rootwater Matriarch,4.0,Rare,2,3,Blue,Creature , Merfolk
+64,Sage Owl,2.0,Common,1,1,Blue,Creature , Bird
+65,Sage Owl,2.0,Common,1,1,Blue,Creature , Bird
+66,Scalpelexis,5.0,Rare,1,5,Blue,Creature , Beast
+67,Scalpelexis,5.0,Rare,1,5,Blue,Creature , Beast
+68,Serra Angel,5.0,Rare,4,4,White,Creature , Angel
+69,Sea Monster,6.0,Common,6,6,Blue,Creature , Serpent
+73,Sky Weaver,2.0,Uncommon,2,1,Blue,Creature , Metathran Wizard
+74,Sky Weaver,2.0,Uncommon,2,1,Blue,Creature , Metathran Wizard
+75,Mortivore,4.0,Rare,*,*,Black,Creature , Lhurgoyf
+76,Mortivore,4.0,Rare,*,*,Black,Creature , Lhurgoyf
+77,Nomad Mythmaker,3.0,Rare,2,2,White,Creature , Human Nomad Cleric
+78,Paladin en-Vec,3.0,Rare,2,2,White,Creature , Human Knight
+80,Phantom Warrior,3.0,Uncommon,2,2,Blue,Creature , Illusion Warrior
+88,Doomed Necromancer,3.0,Rare,2,2,Black,Creature , Human Cleric Mercenary
+89,Dross Crocodile,4.0,Common,5,1,Black,Creature , Zombie Crocodile
+90,Drudge Skeletons,2.0,Uncommon,1,1,Black,Creature , Skeleton
+91,Dusk Imp,3.0,Common,2,1,Black,Creature , Imp
+92,Dusk Imp,3.0,Common,2,1,Black,Creature , Imp
+95,Hidden Horror,3.0,Uncommon,4,4,Black,Creature , Horror
+96,Nantuko Husk,3.0,Uncommon,2,2,Black,Creature , Zombie Insect
+97,Nekrataal,4.0,Uncommon,2,1,Black,Creature , Human Assassin
+98,Nekrataal,4.0,Uncommon,2,1,Black,Creature , Human Assassin
+99,Nightmare,6.0,Rare,*,*,Black,Creature , Nightmare Horse
+101,Brutal Hordechief,4.0,Mythic,3,3,Black,Creature , Orc Warrior
+103,Festercreep,2.0,Common,0,0,Black,Creature , Elemental
+105,Guiltfeeder,5.0,Rare,0,4,Black,Creature , Horror
+108,Necroplasm,3.0,Rare,1,1,Black,Creature , Ooze
+109,Sangromancer,4.0,Rare,3,3,Black,Creature , Vampire Shaman
+111,Wight of Precinct Six,2.0,Uncommon,1,1,Black,Creature , Zombie
+112,"Alesha, Who Smiles at Death",3.0,Rare,3,2,Red,Legendary Creature , Human Warrior
+117,Dragon Mage,7.0,Rare,5,5,Red,Creature , Dragon Wizard
+118,"Godo, Bandit Warlord",6.0,Rare,3,3,Red,Legendary Creature , Human Barbarian
+120,Hellkite Igniter,7.0,Rare,5,5,Red,Creature , Dragon
+121,Hellkite Tyrant,6.0,Mythic,6,5,Red,Creature , Dragon
+122,Humble Defector,2.0,Uncommon,2,1,Red,Creature , Human Rogue
+123,"Kazuul, Tyrant of the Cliffs",5.0,Rare,5,4,Red,Legendary Creature , Ogre Warrior
+126,"Slobad, Goblin Tinkerer",2.0,Rare,1,2,Red,Legendary Creature , Goblin Artificer
+127,Stalking Vengeance,7.0,Rare,5,5,Red,Creature , Avatar
+128,Taurean Mauler,3.0,Rare,2,2,Red,Creature , Shapeshifter
+137,Champion of Lambholt,3.0,Rare,1,1,Green,Creature , Human Warrior
+140,Den Protector,2.0,Rare,2,1,Green,Creature , Human Warrior
+143,Forgotten Ancient,4.0,Rare,0,3,Green,Creature , Elemental
+144,Gamekeeper,4.0,Uncommon,2,2,Green,Creature , Elf
+147,Kalonian Hydra,5.0,Mythic,0,0,Green,Creature , Hydra
+150,Managorger Hydra,3.0,Rare,1,1,Green,Creature , Hydra
+151,Mycoloth,5.0,Rare,4,4,Green,Creature , Fungus
+153,Quirion Explorer,2.0,Common,1,1,Green,Creature , Elf Druid Scout
+155,Realm Seekers,6.0,Rare,0,0,Green,Creature , Elf Scout
+157,Sakura-Tribe Elder,2.0,Common,1,1,Green,Creature , Snake Shaman
+158,Satyr Wayfinder,2.0,Common,1,1,Green,Creature , Satyr
+159,Scavenging Ooze,2.0,Rare,2,2,Green,Creature , Ooze
+162,Sylvok Explorer,2.0,Common,1,1,Green,Creature , Human Druid
+164,Thelonite Hermit,4.0,Rare,1,1,Green,Creature , Elf Shaman
+165,Thunderfoot Baloth,6.0,Rare,5,5,Green,Creature , Beast
+166,Tuskguard Captain,3.0,Uncommon,2,3,Green,Creature , Human Warrior
+167,Veteran Explorer,1.0,Uncommon,1,1,Green,Creature , Human Soldier Scout
+168,Wall of Blossoms,2.0,Uncommon,0,4,Green,Creature , Plant Wall
+169,Wild Beastmaster,3.0,Rare,1,1,Green,Creature , Human Shaman
+171,Ankle Shanker,5.0,Rare,2,2,Black,Creature , Goblin Berserker
+174,Baleful Strix,2.0,Uncommon,1,1,Black,Artifact Creature , Bird
+176,Blood Tyrant,7.0,Rare,5,5,Black,Creature , Vampire
+177,Bloodbraid Elf,4.0,Uncommon,3,2,Green,Creature , Elf Berserker
+181,Coiling Oracle,2.0,Common,1,1,Green,Creature , Snake Elf Druid
+182,Consuming Aberration,5.0,Rare,*,*,Black,Creature , Horror
+183,Corpsejack Menace,4.0,Rare,4,4,Black,Creature , Fungus
+185,Dauntless Escort,3.0,Rare,3,3,Green,Creature , Rhino Soldier
+188,"Edric, Spymaster of Trest",3.0,Rare,2,2,Green,Legendary Creature , Elf Rogue
+189,Enduring Scalelord,6.0,Uncommon,4,4,Green,Creature , Dragon
+190,Etherium-Horn Sorcerer,6.0,Rare,3,6,Red,Artifact Creature , Minotaur Wizard
+191,Fathom Mage,4.0,Rare,1,1,Green,Creature , Human Wizard
+192,Filigree Angel,8.0,Rare,4,4,Blue,Artifact Creature , Angel
+193,"Ghave, Guru of Spores",5.0,Mythic,0,0,Black,Legendary Creature , Fungus Shaman
+194,Glint-Eye Nephilim,4.0,Rare,2,2,Black,Creature , Nephilim
+195,"Gwafa Hazid, Profiteer",3.0,Rare,2,2,Blue,Legendary Creature , Human Rogue
+196,"Hanna, Ship's Navigator",3.0,Rare,1,2,Blue,Legendary Creature , Human Artificer
+197,Horizon Chimera,4.0,Uncommon,3,2,Green,Creature , Chimera
+198,"Iroas, God of Victory",4.0,Mythic,7,4,Red,Legendary Enchantment Creature , God
+199,"Jor Kadeen, the Prevailer",5.0,Rare,5,4,Red,Legendary Creature , Human Warrior
+200,Wilderness Hypnotist,4.0,Common,1,3,Blue,Creature , Merfolk Wizard
+201,"Ashling, the Extinguisher",4.0,Rare,4,4,Black,Legendary Creature , Elemental Shaman
+202,Creakwood Ghoul,5.0,Uncommon,3,3,Black,Creature , Plant Zombie
+204,Lingering Tormentor,4.0,Uncommon,2,2,Black,Creature , Spirit
+205,Merrow Bonegnawer,1.0,Common,1,1,Black,Creature , Merfolk Rogue
+206,Necroskitter,3.0,Rare,1,4,Black,Creature , Elemental
+207,Needle Specter,3.0,Rare,1,1,Black,Creature , Specter
+210,Smoldering Butcher,4.0,Common,4,2,Black,Creature , Elemental Warrior
+211,Soot Imp,3.0,Uncommon,1,2,Black,Creature , Imp
+213,Soul Snuffers,4.0,Uncommon,3,3,Black,Creature , Elemental Shaman
+216,Umbra Stalker,7.0,Rare,*,*,Black,Creature , Elemental
+218,Cinder Pyromancer,3.0,Common,0,1,Red,Creature , Elemental Shaman
+219,Duergar Cave-Guard,4.0,Uncommon,1,3,Red,Creature , Dwarf Warrior
+222,Hatchet Bully,4.0,Uncommon,3,3,Red,Creature , Goblin Warrior
+223,Hateflayer,7.0,Rare,5,5,Red,Creature , Elemental
+224,Heartlash Cinder,2.0,Common,1,1,Red,Creature , Elemental Warrior
+225,Hotheaded Giant,4.0,Common,4,4,Red,Creature , Giant Warrior
+226,Impelled Giant,6.0,Uncommon,3,3,Red,Creature , Giant Warrior
+227,Outrage Shaman,5.0,Uncommon,2,2,Red,Creature , Goblin Shaman
+230,Stigma Lasher,2.0,Rare,2,2,Red,Creature , Elemental Shaman
+231,Thunderblust,5.0,Rare,7,2,Red,Creature , Elemental
+233,Aerie Ouphes,5.0,Common,3,3,Green,Creature , Ouphe
+234,Bloom Tender,2.0,Rare,1,1,Green,Creature , Elf Druid
+235,Duskdale Wurm,7.0,Uncommon,7,7,Green,Creature , Wurm
+237,Marshdrinker Giant,5.0,Uncommon,4,3,Green,Creature , Giant Warrior
+239,Nettle Sentinel,1.0,Common,2,2,Green,Creature , Elf Warrior
+241,Primalcrux,6.0,Rare,*,*,Green,Creature , Elemental
+242,Regal Force,7.0,Rare,5,5,Green,Creature , Elemental
+244,Swirling Spriggan,4.0,Uncommon,3,3,Green,Creature , Goblin Shaman
+245,Talara's Battalion,2.0,Rare,4,3,Green,Creature , Elf Warrior
+246,Tilling Treefolk,3.0,Common,1,3,Green,Creature , Treefolk Druid
+247,Twinblade Slasher,1.0,Uncommon,1,1,Green,Creature , Elf Warrior
+248,Wickerbough Elder,4.0,Common,4,4,Green,Creature , Treefolk Shaman
+251,Bloodied Ghost,3.0,Uncommon,3,3,Black,Creature , Spirit
+253,Deathbringer Liege,5.0,Rare,3,4,Black,Creature , Horror
+254,Divinity of Pride,5.0,Rare,4,4,Black,Creature , Spirit Avatar
+256,Evershrike,5.0,Rare,2,2,Black,Creature , Elemental Spirit
+257,Gwyllion Hedge-Mage,3.0,Uncommon,2,2,Black,Creature , Hag Wizard
+258,Harvest Gwyllion,4.0,Common,2,4,Black,Creature , Hag
+259,Nightsky Mimic,2.0,Common,2,1,Black,Creature , Shapeshifter
+260,Nip Gwyllion,1.0,Common,1,1,Black,Creature , Hag
+262,Restless Apparition,3.0,Uncommon,2,2,Black,Creature , Spirit
+263,Stillmoon Cavalier,3.0,Rare,2,1,Black,Creature , Zombie Knight
+265,Voracious Hatchling,4.0,Uncommon,6,6,Black,Creature , Elemental
+268,Crackleburr,3.0,Rare,2,2,Red,Creature , Elemental
+269,Crag Puca,3.0,Uncommon,2,4,Red,Creature , Shapeshifter
+270,Dominus of Fealty,5.0,Rare,4,4,Red,Creature , Spirit Avatar
+272,Mindwrack Liege,6.0,Rare,4,4,Red,Creature , Horror
+274,Noggle Bandit,3.0,Common,2,2,Red,Creature , Noggle Rogue
+275,Noggle Bridgebreaker,4.0,Common,4,3,Red,Creature , Noggle Rogue
+276,Noggle Hedge-Mage,3.0,Uncommon,2,2,Red,Creature , Noggle Wizard
+277,Noggle Ransacker,3.0,Uncommon,2,1,Red,Creature , Noggle Rogue
+278,Nucklavee,6.0,Uncommon,4,4,Red,Creature , Beast
+279,Riverfall Mimic,2.0,Common,2,1,Red,Creature , Shapeshifter
+280,Shrewd Hatchling,4.0,Uncommon,6,6,Red,Creature , Elemental
+281,Stream Hopper,1.0,Common,1,1,Red,Creature , Goblin
+283,Canker Abomination,4.0,Uncommon,6,6,Black,Creature , Treefolk Horror
+285,Creakwood Liege,4.0,Rare,2,2,Black,Creature , Horror
+286,Deity of Scars,5.0,Rare,7,7,Black,Creature , Spirit Avatar
+287,Desecrator Hag,4.0,Common,2,2,Black,Creature , Hag
+288,Doomgape,7.0,Rare,10,10,Black,Creature , Elemental
+291,Hag Hedge-Mage,3.0,Uncommon,2,2,Black,Creature , Hag Shaman
+292,Noxious Hatchling,4.0,Uncommon,6,6,Black,Creature , Elemental
+293,Odious Trow,1.0,Common,1,1,Black,Creature , Troll
+294,Quillspike,3.0,Uncommon,1,1,Black,Creature , Beast
+295,Rendclaw Trow,3.0,Common,2,2,Black,Creature , Troll
+296,Sapling of Colfenor,5.0,Rare,2,5,Black,Legendary Creature , Treefolk Shaman
+297,Stalker Hag,3.0,Uncommon,3,2,Black,Creature , Hag
+298,Woodlurker Mimic,2.0,Common,2,1,Black,Creature , Shapeshifter
+300,Alluring Siren,2.0,Uncommon,1,1,Blue,Creature , Siren
+301,Amphin Cutthroat,4.0,Common,2,4,Blue,Creature , Salamander Rogue
+302,Aven Fleetwing,4.0,Common,2,2,Blue,Creature , Bird Soldier
+303,Azure Mage,2.0,Uncommon,2,1,Blue,Creature , Human Wizard
+304,Belltower Sphinx,5.0,Uncommon,2,5,Blue,Creature , Sphinx
+306,Chasm Drake,5.0,Common,3,3,Blue,Creature , Drake
+307,Coral Merfolk,2.0,Common,2,1,Blue,Creature , Merfolk
+309,Djinn of Wishes,5.0,Rare,4,4,Blue,Creature , Djinn
+313,Frost Titan,6.0,Mythic,6,6,Blue,Creature , Giant
+314,Harbor Serpent,6.0,Common,5,5,Blue,Creature , Serpent
+317,Jace's Archivist,3.0,Rare,2,2,Blue,Creature , Vedalken Wizard
+320,Lord of the Unreal,2.0,Rare,2,2,Blue,Creature , Human Wizard
+322,Master Thief,4.0,Uncommon,2,2,Blue,Creature , Human Rogue
+323,Merfolk Looter,2.0,Common,1,1,Blue,Creature , Merfolk Rogue
+324,Merfolk Mesmerist,2.0,Common,1,2,Blue,Creature , Merfolk Wizard
+328,Phantasmal Bear,1.0,Common,2,2,Blue,Creature , Bear Illusion
+329,Phantasmal Dragon,4.0,Uncommon,5,5,Blue,Creature , Dragon Illusion
+330,Phantasmal Image,2.0,Rare,0,0,Blue,Creature , Illusion
+333,Skywinder Drake,3.0,Common,3,1,Blue,Creature , Drake
+334,Sphinx of Uthuun,7.0,Rare,5,6,Blue,Creature , Sphinx
+339,Blood Seeker,2.0,Common,1,1,Black,Creature , Vampire Shaman
+340,Bloodlord of Vaasgoth,5.0,Mythic,3,3,Black,Creature , Vampire Warrior
+341,Bloodrage Vampire,3.0,Common,3,1,Black,Creature , Vampire
+344,Cemetery Reaper,3.0,Rare,2,2,Black,Creature , Zombie
+345,Child of Night,2.0,Common,2,1,Black,Creature , Vampire
+349,Devouring Swarm,3.0,Common,2,1,Black,Creature , Insect
+354,Drifting Shade,4.0,Common,1,1,Black,Creature , Shade
+355,Duskhunter Bat,2.0,Common,1,1,Black,Creature , Bat
+356,Grave Titan,6.0,Mythic,6,6,Black,Creature , Giant
+357,Gravedigger,4.0,Common,2,2,Black,Creature , Zombie
+361,Onyx Mage,2.0,Uncommon,2,1,Black,Creature , Human Wizard
+362,Reassembling Skeleton,2.0,Uncommon,1,1,Black,Creature , Skeleton Warrior
+363,Royal Assassin,3.0,Rare,1,1,Black,Creature , Human Assassin
+364,Rune-Scarred Demon,7.0,Rare,6,6,Black,Creature , Demon
+365,Sengir Vampire,5.0,Uncommon,4,4,Black,Creature , Vampire
+370,Sutured Ghoul,7.0,Rare,*,*,Black,Creature , Zombie
+372,Tormented Soul,1.0,Common,1,1,Black,Creature , Spirit
+373,Vampire Outcasts,4.0,Uncommon,2,2,Black,Creature , Vampire
+374,Vengeful Pharaoh,5.0,Rare,5,4,Black,Creature , Zombie
+375,Warpath Ghoul,3.0,Common,3,2,Black,Creature , Zombie
+377,Zombie Goliath,5.0,Common,4,3,Black,Creature , Zombie Giant
+380,Blood Ogre,3.0,Common,2,2,Red,Creature , Ogre Warrior
+381,Bonebreaker Giant,5.0,Common,4,4,Red,Creature , Giant
+384,Chandra's Phoenix,3.0,Rare,2,2,Red,Creature , Phoenix
+387,Crimson Mage,2.0,Uncommon,2,1,Red,Creature , Human Shaman
+388,Fiery Hellhound,3.0,Common,2,2,Red,Creature , Elemental Dog
+391,Flameblast Dragon,6.0,Rare,5,5,Red,Creature , Dragon
+393,Furyborn Hellkite,7.0,Mythic,6,6,Red,Creature , Dragon
+394,Goblin Arsonist,1.0,Common,1,1,Red,Creature , Goblin Shaman
+395,Goblin Bangchuckers,4.0,Uncommon,2,2,Red,Creature , Goblin Warrior
+396,Goblin Chieftain,3.0,Rare,2,2,Red,Creature , Goblin
+397,Goblin Fireslinger,1.0,Common,1,1,Red,Creature , Goblin Warrior
+399,Goblin Piker,2.0,Common,2,1,Red,Creature , Goblin Warrior
+402,Embermaw Hellion,5.0,Rare,4,5,Red,Creature , Hellion
+403,Enthralling Victor,4.0,Uncommon,3,2,Red,Creature , Human Warrior
+407,Firefiend Elemental,4.0,Common,3,2,Red,Creature , Elemental
+410,Ghirapur Gearcrafter,3.0,Common,2,1,Red,Creature , Human Artificer
+411,Goblin Glory Chaser,1.0,Uncommon,1,1,Red,Creature , Goblin Warrior
+412,Goblin Piledriver,2.0,Rare,1,2,Red,Creature , Goblin Warrior
+415,Mage-Ring Bully,2.0,Common,2,2,Red,Creature , Human Warrior
+418,Pia and Kiran Nalaar,4.0,Rare,2,2,Red,Legendary Creature , Human Artificer
+419,Prickleboar,5.0,Common,3,3,Red,Creature , Boar
+421,Scab-Clan Berserker,3.0,Rare,2,2,Red,Creature , Human Berserker
+422,Seismic Elemental,5.0,Uncommon,4,4,Red,Creature , Elemental
+423,Skyraker Giant,4.0,Uncommon,4,3,Red,Creature , Giant
+425,Subterranean Scout,2.0,Common,2,1,Red,Creature , Goblin Scout
+426,Thopter Engineer,3.0,Uncommon,1,3,Red,Creature , Human Artificer
+428,Volcanic Rambler,6.0,Common,6,4,Red,Creature , Elemental
+431,Caustic Caterpillar,1.0,Common,1,1,Green,Creature , Insect
+432,Conclave Naturalists,5.0,Uncommon,4,4,Green,Creature , Dryad
+433,"Dwynen, Gilt-Leaf Daen",4.0,Rare,3,4,Green,Legendary Creature , Elf Warrior
+434,Dwynen's Elite,2.0,Uncommon,2,2,Green,Creature , Elf Warrior
+436,Elvish Visionary,2.0,Common,1,1,Green,Creature , Elf Shaman
+438,Gaea's Revenge,7.0,Rare,8,5,Green,Creature , Elemental
+441,Herald of the Pantheon,2.0,Rare,2,2,Green,Creature , Centaur Shaman
+442,Hitchclaw Recluse,3.0,Common,1,4,Green,Creature , Spider
+443,Honored Hierarch,1.0,Rare,1,1,Green,Creature , Human Druid
+445,Leaf Gilder,2.0,Common,2,1,Green,Creature , Elf Druid
+446,Llanowar Empath,4.0,Common,2,2,Green,Creature , Elf Shaman
+447,Managorger Hydra,3.0,Rare,1,1,Green,Creature , Hydra
+450,"Nissa, Vastwood Seer // Nissa, Sage Animist",3.0,Mythic,2,2,Green,Legendary Creature , Elf Scout
+454,Orchard Spirit,3.0,Common,2,2,Green,Creature , Spirit
+455,Outland Colossus,5.0,Rare,6,6,Green,Creature , Giant
+456,Pharika's Disciple,4.0,Common,2,3,Green,Creature , Centaur Warrior
+458,Rhox Maulers,5.0,Common,4,4,Green,Creature , Rhino Soldier
+459,Skysnare Spider,6.0,Uncommon,6,6,Green,Creature , Spider
+460,Somberwald Alpha,4.0,Uncommon,3,2,Green,Creature , Wolf
+461,Sylvan Messenger,4.0,Uncommon,2,2,Green,Creature , Elf
+462,Timberpack Wolf,2.0,Common,2,2,Green,Creature , Wolf
+464,Undercity Troll,2.0,Uncommon,2,2,Green,Creature , Troll
+465,Valeron Wardens,3.0,Uncommon,1,3,Green,Creature , Human Monk
+466,Vastwood Gorger,6.0,Common,5,6,Green,Creature , Wurm
+469,Woodland Bellower,6.0,Mythic,6,5,Green,Creature , Beast
+470,Yeva's Forcemage,3.0,Common,2,2,Green,Creature , Elf Shaman
+472,Blazing Hellhound,4.0,Uncommon,4,3,Black,Creature , Elemental Dog
+473,Blood-Cursed Knight,3.0,Uncommon,3,2,Black,Creature , Vampire Knight
+474,Bounding Krasis,3.0,Uncommon,3,3,Green,Creature , Fish Lizard
+475,Citadel Castellan,3.0,Uncommon,2,3,Green,Creature , Human Knight
+476,Iroas's Champion,3.0,Uncommon,2,2,Red,Creature , Human Soldier
+477,Possessed Skaab,5.0,Uncommon,3,2,Black,Creature , Zombie
+478,Reclusive Artificer,4.0,Uncommon,2,3,Red,Creature , Human Artificer
+479,Shaman of the Pack,3.0,Uncommon,3,2,Black,Creature , Elf Shaman
+480,Thunderclap Wyvern,4.0,Uncommon,2,3,Blue,Creature , Drake
+481,Zendikar Incarnate,4.0,Uncommon,*,4,Green,Creature , Elemental
+506,Augur of Bolas,2.0,Uncommon,1,3,Blue,Creature , Merfolk Wizard
+512,Parhelion II,8.0,Rare,5,5,White,Legendary Artifact , Vehicle
+520,"Tomik, Distinguished Advokist",2.0,Rare,2,3,White,Legendary Creature , Human Advisor
+521,"Tomik, Distinguished Advokist",2.0,Rare,2,3,White,Legendary Creature , Human Advisor
+526,"Fblthp, the Lost",2.0,Rare,1,1,Blue,Legendary Creature , Homunculus
+527,"Fblthp, the Lost",2.0,Rare,1,1,Blue,Legendary Creature , Homunculus
+530,God-Eternal Kefnet,4.0,Mythic,4,5,Blue,Legendary Creature , Zombie God
+540,Silent Submersible,2.0,Rare,2,3,Blue,Artifact , Vehicle
+541,Spark Double,4.0,Rare,0,0,Blue,Creature , Illusion
+542,Spark Double,4.0,Rare,0,0,Blue,Creature , Illusion
+556,God-Eternal Bontu,5.0,Mythic,5,6,Black,Legendary Creature , Zombie God
+561,Massacre Girl,5.0,Rare,4,4,Black,Legendary Creature , Human Assassin
+562,Vengevine,4.0,Mythic,4,3,Green,Creature , Elemental
+563,Geist of Saint Traft,3.0,Mythic,2,2,Blue,Legendary Creature , Spirit Cleric
+564,"Thalia, Guardian of Thraben",2.0,Rare,2,1,White,Legendary Creature , Human Soldier
+567,Balduvian Horde,4.0,Rare,5,5,Red,Creature , Human Barbarian
+569,Serra Angel,5.0,Rare,4,4,White,Creature , Angel
+571,Hellspark Elemental,2.0,Rare,3,1,Red,Creature , Elemental
+572,Marisi's Twinclaws,4.0,Rare,2,4,Green,Creature , Cat Warrior
+576,Kor Duelist,1.0,Rare,1,1,White,Creature , Kor Soldier
+577,Vampire Nighthawk,3.0,Rare,2,3,Black,Creature , Vampire Shaman
+578,Kor Firewalker,2.0,Rare,2,2,White,Creature , Kor Soldier
+579,Leatherback Baloth,3.0,Rare,4,5,Green,Creature , Beast
+584,Sylvan Ranger,2.0,Rare,1,1,Green,Creature , Elf Scout Ranger
+585,Plague Stinger,2.0,Rare,1,1,Black,Creature , Phyrexian Insect Horror
+587,Skinrender,4.0,Rare,3,3,Black,Creature , Phyrexian Zombie
+592,Sylvan Ranger,2.0,Rare,1,1,Green,Creature , Elf Scout Ranger
+593,Vault Skirge,2.0,Rare,1,1,Black,Artifact Creature , Phyrexian Imp
+594,Maul Splicer,7.0,Rare,1,1,Green,Creature , Phyrexian Human Artificer
+596,Tormented Soul,1.0,Rare,1,1,Black,Creature , Spirit
+597,Auramancer,3.0,Rare,2,2,White,Creature , Human Wizard
+604,"Millicent, Restless Revenant",7.0,Mythic,4,4,Blue,Legendary Creature , Spirit Soldier
+605,"Strefan, Maurer Progenitor",4.0,Mythic,3,2,Black,Legendary Creature , Vampire Noble
+606,"Donal, Herald of Wings",4.0,Mythic,3,3,Blue,Legendary Creature , Human Wizard
+607,"Timothar, Baron of Bats",6.0,Mythic,4,4,Black,Legendary Creature , Vampire Noble
+608,Drogskol Reinforcements,4.0,Rare,2,2,White,Creature , Spirit Soldier
+610,Priest of the Blessed Graf,3.0,Rare,1,2,White,Creature , Human Cleric
+611,"Rhoda, Geist Avenger",4.0,Rare,3,3,White,Legendary Creature , Human Soldier
+615,Ethereal Investigator,4.0,Rare,2,3,Blue,Creature , Spirit
+618,Spectral Arcanist,4.0,Rare,3,2,Blue,Creature , Spirit Wizard
+619,"Timin, Youthful Geist",5.0,Rare,3,4,Blue,Legendary Creature , Spirit
+620,Crossway Troublemakers,6.0,Rare,5,5,Black,Creature , Vampire
+622,"Kamber, the Plunderer",4.0,Rare,3,4,Black,Legendary Creature , Vampire Rogue
+625,Shadowgrange Archfiend,7.0,Rare,8,4,Black,Creature , Demon
+628,"Laurine, the Diversion",3.0,Rare,3,3,Red,Legendary Creature , Human Rogue
+629,Markov Enforcer,6.0,Rare,6,6,Red,Creature , Vampire Soldier
+630,Midnight Arsonist,4.0,Rare,3,2,Red,Creature , Vampire
+631,Scion of Opulence,3.0,Rare,3,1,Red,Creature , Vampire Noble
+634,Breathkeeper Seraph,6.0,Rare,4,4,White,Creature , Angel
+636,Imperious Mindbreaker,3.0,Rare,1,4,Blue,Creature , Human Wizard
+637,Doom Weaver,6.0,Rare,1,8,Black,Creature , Spider Horror
+638,Mirage Phalanx,6.0,Rare,4,4,Red,Creature , Human Soldier
+639,Hollowhenge Overlord,6.0,Rare,4,4,Green,Creature , Wolf
+640,Thundering Mightmare,5.0,Rare,3,3,Green,Creature , Horse Spirit
+641,"Umbris, Fear Manifest",5.0,Mythic,1,1,Black,Legendary Creature , Nightmare Horror
+642,"Millicent, Restless Revenant",7.0,Mythic,4,4,Blue,Legendary Creature , Spirit Soldier
+643,"Strefan, Maurer Progenitor",4.0,Mythic,3,2,Black,Legendary Creature , Vampire Noble
+644,"Donal, Herald of Wings",4.0,Mythic,3,3,Blue,Legendary Creature , Human Wizard
+645,"Timothar, Baron of Bats",6.0,Mythic,4,4,Black,Legendary Creature , Vampire Noble
+646,Drogskol Reinforcements,4.0,Rare,2,2,White,Creature , Spirit Soldier
+648,Priest of the Blessed Graf,3.0,Rare,1,2,White,Creature , Human Cleric
+649,"Rhoda, Geist Avenger",4.0,Rare,3,3,White,Legendary Creature , Human Soldier
+653,Ethereal Investigator,4.0,Rare,2,3,Blue,Creature , Spirit
+656,Spectral Arcanist,4.0,Rare,3,2,Blue,Creature , Spirit Wizard
+657,"Timin, Youthful Geist",5.0,Rare,3,4,Blue,Legendary Creature , Spirit
+658,Crossway Troublemakers,6.0,Rare,5,5,Black,Creature , Vampire
+660,"Kamber, the Plunderer",4.0,Rare,3,4,Black,Legendary Creature , Vampire Rogue
+663,Shadowgrange Archfiend,7.0,Rare,8,4,Black,Creature , Demon
+666,"Laurine, the Diversion",3.0,Rare,3,3,Red,Legendary Creature , Human Rogue
+667,Markov Enforcer,6.0,Rare,6,6,Red,Creature , Vampire Soldier
+668,Midnight Arsonist,4.0,Rare,3,2,Red,Creature , Vampire
+669,Scion of Opulence,3.0,Rare,3,1,Red,Creature , Vampire Noble
+672,Breathkeeper Seraph,6.0,Rare,4,4,White,Creature , Angel
+674,Imperious Mindbreaker,3.0,Rare,1,4,Blue,Creature , Human Wizard
+675,Doom Weaver,6.0,Rare,1,8,Black,Creature , Spider Horror
+676,Mirage Phalanx,6.0,Rare,4,4,Red,Creature , Human Soldier
+677,Hollowhenge Overlord,6.0,Rare,4,4,Green,Creature , Wolf
+678,Thundering Mightmare,5.0,Rare,3,3,Green,Creature , Horse Spirit
+679,"Umbris, Fear Manifest",5.0,Mythic,1,1,Black,Legendary Creature , Nightmare Horror
+680,Angel of Flight Alabaster,5.0,Rare,4,4,White,Creature , Angel
+682,Boreas Charger,3.0,Rare,2,1,White,Creature , Pegasus
+683,Bygone Bishop,3.0,Rare,2,3,White,Creature , Spirit Cleric
+685,Custodi Soulbinders,4.0,Rare,0,0,White,Creature , Human Cleric
+686,Custodi Squire,5.0,Common,3,3,White,Creature , Spirit Cleric
+691,Hallowed Spiritkeeper,3.0,Rare,3,2,White,Creature , Avatar
+692,Hanged Executioner,3.0,Rare,1,1,White,Creature , Spirit
+693,Karmic Guide,5.0,Rare,2,2,White,Creature , Angel Spirit
+695,Knight of the White Orchid,2.0,Rare,2,2,White,Creature , Human Knight
+696,Mentor of the Meek,3.0,Rare,2,2,White,Creature , Human Soldier
+697,Mirror Entity,3.0,Rare,1,1,White,Creature , Shapeshifter
+698,"Oyobi, Who Split the Heavens",7.0,Rare,3,6,White,Legendary Creature , Spirit
