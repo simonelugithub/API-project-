@@ -66,5 +66,36 @@ df = df.dropna()  #from 700 to 376 sample size
 
 df.to_csv(r"C:\Users\loren\OneDrive\Desktop\Pythonproject_Querini\MTG.csv")
 
-
+#DATA VISUALIZATION
 cards = pd.read_csv("MTG.csv")
+
+#PLOT
+plt.rcParams.update({'figure.figsize':(9,6), 'figure.dpi':100})
+cards['rarity'].value_counts().plot(kind="pie")
+fig = plt.figure()
+fig.savefig('color.png')
+
+plt.rcParams.update({'figure.figsize':(9,6), 'figure.dpi':100})
+x = cards["main_color"]
+plt.hist(x, bins=20)
+plt.gca().set(title='color Histogram', ylabel='Frequency')
+fig = plt.figure()
+fig.savefig('color.png')
+
+plt.rcParams.update({'figure.figsize':(9,6), 'figure.dpi':100})
+x1 = cards["rarity"]
+plt.hist(x1, bins=10);
+plt.gca().set(title='rarity Histogram', ylabel='Frequency')
+fig = plt.figure()
+fig.savefig('rarity.png')
+
+plt.rcParams.update({'figure.figsize':(9,6), 'figure.dpi':100})
+x2 = cards["cmc"]
+plt.hist(x2, bins=20)
+plt.gca().set(title='cmc Histogram', ylabel='Frequency')
+fig = plt.figure()
+fig.savefig('cmc.png')
+
+
+
+
