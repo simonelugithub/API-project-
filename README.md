@@ -1,6 +1,9 @@
 # Data Project with Python and R
 #contributors: Simone Lu, Lorenzo Antolini, Marco Pisano.
 
+* TASK 1 Data collection
+ In this task we retrieved the data from https://api.magicthegathering.io/v1/cards in json format.
+ Then we flattened the data, so that we can work in a tabular form we further analysis. Subsequently, we did some manipulation by excluding the colums that do not provide any additional information.
 
 
 
