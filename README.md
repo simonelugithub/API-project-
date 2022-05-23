@@ -1,8 +1,8 @@
 # **Data Project**
 
 #contributors: Simone Lu, Lorenzo Antolini, Marco Pisano.
+# TASK 1 Data collection**
 
-**TASK 1 Data collection**
 **PYTHON**
  In this task, we retrieved different pages from the API response from https://api.magicthegathering.io/v1/cards in JSON format. We retrieved more pages to have more rows in our dataset (TOTAL = 700). All the pages we retrieved, are normalized and merged into a unique dataset. Then we write that dataset into a CSV file.
 
@@ -15,7 +15,7 @@
  2) we dropped all the columns that we consider not necessary for our analysis.
  3) We manipulate the column type value to extract only the "creature" from the card data frame
 
-#DATA VISUALIZATION
+# DATA VISUALIZATION
  We use creature data frame to plot and count different variables distribution such as the rarity, mana colour, type and subtypes of the cards.
  Then we saved the figure.
  
